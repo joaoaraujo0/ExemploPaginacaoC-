@@ -1,0 +1,4 @@
+Para testar coloque a rota no postman https://localhost:5001/v1/todos/0/2
+passando na primeira barra o numero da pagina e na segunda o numero de elementos
+com no max 25 definido no codigo
+
